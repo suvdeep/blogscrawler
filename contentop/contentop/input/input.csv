@@ -1,0 +1,2 @@
+name,url,domain,title,description,category,allow,restriction,crawled
+adrants,adrants.com,adrants.com,"//div[contains(concat(' ', @class, ' '), ' entry ')]/h1","//div[contains(concat(' ', @class, ' '), ' entry ')]//p",None,'',"'images','search','medium','sideline','archive','subject'",0
